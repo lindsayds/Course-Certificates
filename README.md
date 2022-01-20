@@ -9,4 +9,3 @@ The purpose of this repository is to store LinkedIn Learning Certificates
 
 3. Linkedin Learning: Numpy Essential Training 1: Foundations of NumPy ![Foundations of NumPy Certificate of Completion](https://user-images.githubusercontent.com/97469372/150389648-a6a300af-1a39-4c93-88fe-ec551fe435ac.png)
 
-4. Codecademy: Learn Python 2
